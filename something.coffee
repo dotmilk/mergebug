@@ -1,2 +1,3 @@
 foo = () ->
-    console.log "We won't get fooled again!"
+    console.info "Pray"
+    console.info "We won't get fooled again!"
